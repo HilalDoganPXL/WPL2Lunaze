@@ -1,0 +1,165 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+body{
+    background-color: #110D26;
+    font-family: "HiraginoSans-W0", serif;
+}
+nav{
+    background-color: #110D26;
+    font-family: "Big Caslon fb";
+    font-size: 20px;
+
+}
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+    margin-right: 44px;
+}
+.navbar-brand{
+    font-size: 33px;
+}
+
+h1,h2{
+    font-family: "Big Caslon fb";
+    font-weight: lighter;
+    font-size: 40px;
+}
+
+.shadow-lg{
+    opacity: 0.2;
+    margin-left: 42px;
+    margin-top: -44px;
+    font-size: 55px;
+}
+.shadowstories{
+    opacity: 0.2;
+    margin-left: -99px;
+    margin-top: 15px;
+    font-size: 55px;
+}
+
+#image1{
+    float: left;
+}
+
+button{
+    background-color: #93676D;
+}
+
+#image1{
+    float: right;
+}
+
+.card-body{
+    background-color: #110D26;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*CONTACT PAGE*/
+.image1 {
+    /* float: right; */
+    height: 100%;
+    width: 40%;
+}
+.contact-formulier {
+    height: 100%;
+    width: 40%;
+}
+
+/*FOOTER*/
+.categories {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+
+.categories li {
+    margin: 0 40px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.categories a {
+    text-decoration: none;
+    color: white;
+}
+
+.logoFooter {
+    font-size: 50px;
+    color: white;
+
+}
+
+
+.listStyle {
+    list-style-type: none;
+    text-align: left;
+}
+
+.text-white1 {
+    color: white;
+    font-weight: bold;
+}
+
+.liSocial {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+
+}
+
+.text-white2 {
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.white-line {
+    border-top: 0.5px solid white;
+    margin-bottom: 60px;
+}
+
+footer {
+    background-color: #040424 ;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+
+/*STORYPAGE*/
+.carousel-caption{
+    font-family: "Big Caslon fb", serif;
+    color: white;
+}
+.titelstorypage{
+    text-align: center;
+    font-family: "Big Caslon fb", serif;
+}
+.cardTherapist{
+    width: 288px;
+}
+.btn{
+    background-color: #93676D;
+}
+

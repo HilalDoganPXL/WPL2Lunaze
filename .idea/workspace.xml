@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c42641b9-9177-4f0b-a453-af51ef08ed2b" name="Default Changelist" comment="" />
+    <list default="true" id="c42641b9-9177-4f0b-a453-af51ef08ed2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/contact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pictures/OurGroup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pictures/mockupPhone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NAV+FOOTER/assets/footer/Icon copyright.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NAV+FOOTER/assets/footer/Icon facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NAV+FOOTER/assets/footer/Icon instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NAV+FOOTER/assets/footer/Icon twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NAV+FOOTER/assets/header/Icon profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NAV+FOOTER/assets/header/Icon shoppingbag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NAV+FOOTER/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NAV+FOOTER/homepage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PAGINAS/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pictures/mockup staand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/PAGINAS/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/PAGINAS/homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-3.5.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/PAGINAS/jquery-3.5.1.min.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +40,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1s287EU7jg9BhMM0GrRN3rzaHes" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -41,11 +65,11 @@
       <recent name="$PROJECT_DIR$/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/pictures" />
-      <recent name="$PROJECT_DIR$/assets/footer" />
-      <recent name="$PROJECT_DIR$/assets/icons" />
-      <recent name="$PROJECT_DIR$/assets/Header" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/pictures" />
+      <recent name="$PROJECT_DIR$/PAGINAS/assets/storypagepictures" />
+      <recent name="$PROJECT_DIR$/PAGINAS/assets/pictures" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +82,9 @@
       <updated>1620059157013</updated>
       <workItem from="1620059158835" duration="11142000" />
       <workItem from="1620383377190" duration="12021000" />
-      <workItem from="1620639012990" duration="23587000" />
+      <workItem from="1620639012990" duration="25994000" />
+      <workItem from="1621253315478" duration="38303000" />
+      <workItem from="1621342452898" duration="296000" />
     </task>
     <servers />
   </component>
@@ -75,5 +101,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c42641b9-9177-4f0b-a453-af51ef08ed2b" name="Default Changelist" comment="changed homepage,css,contactpage,storypage">
-      <change afterPath="$PROJECT_DIR$/stories.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/artikel1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/artikel2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/artikel3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/artikel4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/carouselfoto1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/carouselfoto2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/carouselfoto3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/foto1vrouw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/foto2vrouw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/foto3vrouw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/slide1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/therapist1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/therapist2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/storypage/therapist3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAGINAS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAGINAS/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAGINAS/homepage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAGINAS/jquery-3.5.1.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories.html" beforeDir="false" afterPath="$PROJECT_DIR$/stories.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,11 +63,11 @@
       <recent name="$PROJECT_DIR$/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/storypage" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/assets/pictures" />
       <recent name="$PROJECT_DIR$/PAGINAS/assets/storypagepictures" />
-      <recent name="$PROJECT_DIR$/PAGINAS/assets/pictures" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +86,8 @@
       <workItem from="1621342916206" duration="162000" />
       <workItem from="1621343082762" duration="5546000" />
       <workItem from="1621590354026" duration="717000" />
-      <workItem from="1621868143623" duration="2500000" />
+      <workItem from="1621868143623" duration="5763000" />
+      <workItem from="1621875643605" duration="279000" />
     </task>
     <task id="LOCAL-00001" summary="changed homepage,css,contactpage,storypage">
       <created>1621342779522</created>

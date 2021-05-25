@@ -37,9 +37,10 @@ h1,h2{
 }
 .shadowstories{
     opacity: 0.2;
-    margin-left: -99px;
+    margin-left: -130px;
     margin-top: 15px;
     font-size: 55px;
+    text-align: center;
 }
 
 #image1{
@@ -64,9 +65,12 @@ button{
 .letterspacing{
     letter-spacing: 4px;
 }
+/*
+.mockupphone{
+    margin-top: -60px;
+}
 
-
-
+*/
 
 
 

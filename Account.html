@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <script src="jquery-3.5.1.min.js"></script>
+    <script src="bootstrap.min.js"></script>
+    <script src="script.js"></script>
+    <script src="Account.js"></script>
+    <title>Account</title>
+    <link rel="stylesheet" href="Account.css">
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-md navbar-dark bg-color sticky-top">
+        <!-- One of the primary actions on mobile is to call a business - This displays a phone button on mobile only -->
+        <div class="navbar-toggler-right">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+       
+        <div class="collapse navbar-collapse flex-column" id="navbar">
+
+            <ul class="navbar-nav w-100 justify-content-center px-3">
+                <li class="navbar-brand active">
+                    <a class="navbar-brand" href="#">l'unazé <span class="sr-only">(current)</span></a>
+                </li>
+            </ul>
+
+            <ul class="navbar-nav justify-content-center w-100 px-3">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">Product <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Stories</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+ <section class="Form my-4 mx-5">
+     <div class="container">
+      <div class="row no-gutters">
+        <div class="col-lg-5">
+           <img src="assets/abstract-hand-drawn-woman-portrait-illustrated_23-2148871497 (1).jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-lg-7 px-5 pt-5">
+            <h1 class="font-weight-bold py-3">Sign in</h1>
+            <h4>Sign into your account</h4>
+         <form>
+             <div class="form-row">
+                 <div class="col-lg-7">
+                     <input type="email" placeholder="Email" class="form-control my-3 p-4">
+                 </div>
+             </div>
+             <div class="form-row">
+                <div class="col-lg-7">
+                    <input type="password" placeholder="********" class="form-control my-3 p-4">
+                </div>
+            </div><div class="form-row">
+                <div class="col-lg-7">
+                    <button type="button" class="btn1 mt-3 mb-5">Login</button>
+                </div>
+            </div>
+            <a href="#">Forgot password</a>
+            <p>Don't have an account? <a href="#">Register here</a></p>
+         </form>  
+        </div>
+      </div>   
+     </div>
+ </section>
+
+</body>
+</html>

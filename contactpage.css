@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+body{
+    background: #110D26;
+    font-family: "HiraginoSans-W0", serif;
+}
+nav{
+    background-color: #110D26;
+    font-family: "Big Caslon fb";
+    font-size: 20px;
+
+}
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+    margin-right: 44px;
+}
+.navbar-brand{
+    font-size: 33px;
+}
+
+h1,h2{
+    font-family: "Big Caslon fb";
+    font-weight: lighter;
+    font-size: 40px;
+}
+.Form{
+    color: #110D26;
+}
+
+.row{
+    background-color:#E1CDC1;
+
+    border-radius: 3px;
+    box-shadow: 12px 12px 22px #42416e ;
+}
+.btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    color: white;
+    background-color:#110D26 ;
+
+    border-radius: 4px;
+    font-weight: bold;
+}
+.btn1:hover{
+    background:#E1CDC1 ;
+    border: 1px solid;
+    color: #030220;
+}
+
+.picture{
+    margin-top: 110px;
+}
+
+.card-body{
+    background-color: #110d26;
+}
+
+
+
+/*
+
+
+ul li .navbar-brand {
+    padding-left: 50%;
+    padding-right: 50%;
+    padding-top: 0;
+}
+
+.navbar-nav {
+    padding-left: 50%;
+    padding-right: 50%;
+}
+
+.navbar {
+    height: 120px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #030220;
+}
+.row{
+    background-color:#FFF8EB;
+    border-radius: 3px;
+    box-shadow: 12px 12px 22px #42416e ;
+}
+img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color:#030220 ;
+    color: #FFF8EB;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.btn1:hover{
+    background:#FFF8EB ;
+    border: 1px solid;
+    color: #030220;
+}
+*/

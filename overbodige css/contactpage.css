@@ -50,11 +50,7 @@ h1,h2{
     border-radius: 4px;
     font-weight: bold;
 }
-.btn1:hover{
-    background:#E1CDC1 ;
-    border: 1px solid;
-    color: #030220;
-}
+
 
 .picture{
     margin-top: 110px;

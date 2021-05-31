@@ -35,13 +35,6 @@ h1,h2{
     margin-top: -44px;
     font-size: 55px;
 }
-.shadowstories{
-    opacity: 0.2;
-    margin-left: -130px;
-    margin-top: 15px;
-    font-size: 55px;
-    text-align: center;
-}
 
 #image1{
     float: left;
@@ -72,28 +65,45 @@ button{
 
 */
 
-
-
-
-
-
-
-
-
-
-
-
-
 /*CONTACT PAGE*/
-.image1 {
-    /* float: right; */
-    height: 100%;
-    width: 40%;
+
+.Form{
+    border-radius: 3px;
+    background:#E1CDC1 ;
+    color: #110D26;
 }
-.contact-formulier {
-    height: 100%;
-    width: 40%;
+
+.btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    color: white;
+    background-color:#110D26 ;
+
+    border-radius: 4px;
+    font-weight: bold;
 }
+.btn1:hover{
+    background:#E1CDC1 ;
+    border: 1px solid;
+    color: #030220;
+}
+.picture{
+    margin-top: 110px;
+}
+
+.card-body{
+    background-color: #110d26;
+}
+
+
+
+
+
+
+
+
 
 /*FOOTER*/
 .categories {
@@ -154,7 +164,7 @@ footer {
     background-color: #040424 ;
     position: absolute;
     bottom: 0;
-    width: 100%
+    width: 100%;
 
 }
 
@@ -171,9 +181,20 @@ footer {
     text-align: center;
     font-family: "Big Caslon fb", serif;
 }
+.shadowstories{
+    opacity: 0.2;
+    font-size: 55px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: -44px;
+
+}
+
 .cardTherapist{
     width: 288px;
 }
-
+.btn{
+    background-color: #93676D;
+}
 
 

@@ -203,10 +203,7 @@ footer {
     background-color:#FFF8EB;
     border-radius: 3px;
 }
-img{
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px;
-}
+
 .btn1{
     border: none;
     outline: none;
@@ -223,4 +220,36 @@ img{
     color: #030220;
 }
 
+
+/*SHOP PAGE*/
+.foto1{
+    width: 449px;
+}
+.foto2{
+    width: 150px;
+}
+.foto3{
+    width: 150px;
+}
+.foto4{
+    width: 150px;
+}
+.fotolunapro{
+    width: 420px;
+    float: right;
+}
+
+#gekozenproduct{
+    background-color: #93676D;
+    border-radius: 22px;
+    width: 244px;
+}
+
+/*Dropdownmenu*/
+.form-select{
+    color: white;
+    background-color:#93676D;
+    border-radius: 10px;
+    height: 30px;
+}
 

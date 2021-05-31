@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c42641b9-9177-4f0b-a453-af51ef08ed2b" name="Default Changelist" comment="changed homepage,css,contactpage,storypage">
+      <change afterPath="$PROJECT_DIR$/lunaze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/BUY 3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pictures/BUY 3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/BUY1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pictures/BUY1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/BUY2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pictures/BUY2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lurax.html" beforeDir="false" afterPath="$PROJECT_DIR$/lurax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop.css" beforeDir="false" afterPath="$PROJECT_DIR$/shop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart2.html" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingcart2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -47,12 +56,22 @@
       <recent name="$PROJECT_DIR$/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/overbodige css" />
       <recent name="$PROJECT_DIR$/assets/pictures" />
+      <recent name="$PROJECT_DIR$/assets/shop" />
+      <recent name="$PROJECT_DIR$/overbodige css" />
       <recent name="$PROJECT_DIR$/assets/productpage" />
       <recent name="$PROJECT_DIR$/assets/signupin" />
-      <recent name="$PROJECT_DIR$/assets/storypage" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="lunaze.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lunaze.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.lunaze.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,7 +97,7 @@
       <workItem from="1622036021381" duration="688000" />
       <workItem from="1622391450646" duration="2352000" />
       <workItem from="1622397238080" duration="357000" />
-      <workItem from="1622419219655" duration="8737000" />
+      <workItem from="1622419219655" duration="22038000" />
     </task>
     <task id="LOCAL-00001" summary="changed homepage,css,contactpage,storypage">
       <created>1621342779522</created>

@@ -37,6 +37,9 @@ body{
     width: 420px;
     float: right;
 }
+#gekozenproduct{
+    background-color: #93676D;
+}
 
 /*Dropdownmenu*/
 .form-select{

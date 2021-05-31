@@ -2,9 +2,10 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    color: white;
+
 }
 body{
+    color: white;
     background-color: #110D26;
     font-family: "HiraginoSans-W0", serif;
 }

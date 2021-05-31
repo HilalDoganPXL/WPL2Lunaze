@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c42641b9-9177-4f0b-a453-af51ef08ed2b" name="Default Changelist" comment="changed homepage,css,contactpage,storypage">
-      <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/signup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <workItem from="1622036021381" duration="688000" />
       <workItem from="1622391450646" duration="2352000" />
       <workItem from="1622397238080" duration="357000" />
-      <workItem from="1622419219655" duration="7444000" />
+      <workItem from="1622419219655" duration="7575000" />
     </task>
     <task id="LOCAL-00001" summary="changed homepage,css,contactpage,storypage">
       <created>1621342779522</created>

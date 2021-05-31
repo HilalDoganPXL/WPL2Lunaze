@@ -242,7 +242,7 @@ footer {
 #gekozenproduct{
     background-color: #93676D;
     border-radius: 22px;
-    width: 244px;
+    width: 266px;
 }
 
 /*Dropdownmenu*/
@@ -251,5 +251,12 @@ footer {
     background-color:#93676D;
     border-radius: 10px;
     height: 30px;
+}
+.btn2{
+    background-color: #93676D;
+    width: 144px;
+    height: 44px;
+    border-radius: 22px;
+    color:white;
 }
 

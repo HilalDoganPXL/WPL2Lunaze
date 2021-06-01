@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c42641b9-9177-4f0b-a453-af51ef08ed2b" name="Default Changelist" comment="changed homepage,css,contactpage,storypage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/productpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/productpage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <workItem from="1622391450646" duration="2352000" />
       <workItem from="1622397238080" duration="357000" />
       <workItem from="1622419219655" duration="26676000" />
-      <workItem from="1622530179849" duration="13188000" />
+      <workItem from="1622530179849" duration="14698000" />
     </task>
     <task id="LOCAL-00001" summary="changed homepage,css,contactpage,storypage">
       <created>1621342779522</created>

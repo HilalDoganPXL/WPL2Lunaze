@@ -1,7 +1,14 @@
-let gekozenProduct = document.getElementById("gekozenproduct");
+'use strict'
 
-document.getElementById("gekozenproduct").innerHTML = "hallo";
+//functions
+function products(){
+    let productnaam = document.getElementById("gekozenproduct");
+    let gekozenproduct = document.getElementById("product_form");
+    let result = gekozenproduct.options[gekozenproduct.selectedIndex].value;
+    productnaam.innerHTML = result;
+}
+function addEvents(){
 
-let product = document.getElementById("product_form");
+}
 
-console.log("djfhfljsfdhf"+product);
+products();

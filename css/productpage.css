@@ -33,7 +33,7 @@ nav{
 }
 
 .jumbotron{
-    background-image: url('/../assets/productpage/ringjumbotron.png');
+    background-image: url("/../assets/productpage/ringjumbotron.png");
 }
 
 a:link, a:visited {

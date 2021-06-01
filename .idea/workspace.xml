@@ -3,25 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c42641b9-9177-4f0b-a453-af51ef08ed2b" name="Default Changelist" comment="changed homepage,css,contactpage,storypage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactpage.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/contactpage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lunaze.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/lunaze.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overbodige css/lunapro.html" beforeDir="false" afterPath="$PROJECT_DIR$/overbodige css/lunapro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overbodige css/lunasafe.html" beforeDir="false" afterPath="$PROJECT_DIR$/overbodige css/lunasafe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/overbodige css/lurax.html" beforeDir="false" afterPath="$PROJECT_DIR$/overbodige css/lurax.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/productpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/productpage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/productpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/productpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shoppingcart2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/shoppingcart2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shoppingcart2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/shoppingcart2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signin.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/signin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signin.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/signin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/stories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/productpage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/productpage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +91,7 @@
       <workItem from="1622391450646" duration="2352000" />
       <workItem from="1622397238080" duration="357000" />
       <workItem from="1622419219655" duration="26676000" />
-      <workItem from="1622530179849" duration="6329000" />
+      <workItem from="1622530179849" duration="13188000" />
     </task>
     <task id="LOCAL-00001" summary="changed homepage,css,contactpage,storypage">
       <created>1621342779522</created>

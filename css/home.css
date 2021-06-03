@@ -57,9 +57,6 @@ button{
     background-color: #110d26;
 }
 
-.iconnav{
-    background-color: red;
-}
 .letterspacing{
     letter-spacing: 4px;
 }
@@ -104,46 +101,6 @@ video{
     justify-content: center;
     pointer-events: none;
 }
-
-/*CONTACT PAGE*/
-
-.Form{
-    border-radius: 3px;
-    background:#E1CDC1 ;
-    color: #110D26;
-}
-
-.btn1{
-    border: none;
-    outline: none;
-    height: 50px;
-    width: 100%;
-    color: white;
-    background-color:#110D26 ;
-
-    border-radius: 4px;
-    font-weight: bold;
-}
-.btn1:hover{
-    background:#E1CDC1 ;
-    border: 1px solid;
-    color: #030220;
-}
-.picture{
-    margin-top: 110px;
-}
-
-.card-body{
-    background-color: #110d26;
-}
-
-
-
-
-
-
-
-
 
 /*FOOTER*/
 .categories {
@@ -236,14 +193,18 @@ footer {
     background-color: #93676D;
 }
 
-/*SIGN UP PAGE*/
+
+
+
+
+/*SIGN UP PAGE IN PAGE*/
 .form-signup{
     color: #110D26;
     background-color:#FFF8EB;
     border-radius: 3px;
 }
 
-.btn1{
+.btncreate{
     border: none;
     outline: none;
     height: 50px;
@@ -253,11 +214,47 @@ footer {
     border-radius: 4px;
     font-weight: bold;
 }
-.btn1:hover{
+.btncreate:hover{
     background:#FFF8EB ;
     border: 1px solid;
     color: #030220;
 }
+
+
+
+/*CONTACT PAGE*/
+
+.form{
+    border-radius: 3px;
+    background:#E1CDC1 ;
+    color: #110D26;
+}
+
+.btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    color: white;
+    background-color:#110D26 ;
+
+    border-radius: 4px;
+    font-weight: bold;
+}
+.btn1:hover{
+    background:#E1CDC1 ;
+    border: 1px solid;
+    color: #030220;
+}
+
+.picture{
+    margin-top: 110px;
+}
+
+.card-body{
+    background-color: #110d26;
+}
+
 
 
 /*SHOP PAGE*/

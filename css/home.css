@@ -6,11 +6,11 @@
 }
 body{
     color: white;
-    background-color: #110D26;
+    background-color: #030220;
     font-family: "HiraginoSans-W0", serif;
 }
 nav{
-    background-color: #110D26;
+    background-color: #030220;
     font-family: "Big Caslon fb";
     font-size: 20px;
 
@@ -64,6 +64,29 @@ button{
     letter-spacing: 4px;
 }
 
+.jumbotron {
+    position: relative;
+    overflow: hidden;
+    background-color:black;
+}
+.jumbotron video {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    width:100%;
+    height:100%;
+    /*  object-fit is not supported on IE  */
+    object-fit: cover;
+    opacity:0.5;
+}
+.jumbotron .container {
+    z-index: 2;
+    position: relative;
+}
+
+
+
+
 
 /*
 .mockupphone{
@@ -72,12 +95,14 @@ button{
 
 */
 /*video*/
+
 video{
+
     width: 100%;
     height: 61%;
-    margin: 100px auto 0 auto;
     display: block;
     justify-content: center;
+    pointer-events: none;
 }
 
 /*CONTACT PAGE*/
@@ -273,4 +298,6 @@ footer {
     border-radius: 22px;
     color:white;
 }
+
+
 

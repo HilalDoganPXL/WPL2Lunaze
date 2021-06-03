@@ -1,25 +1,16 @@
 *{
     box-sizing: border-box;
     padding: 0;
-    color: white;
+    margin: 0;
 }
 
 body{
+    color: white;
     background-color: #030220;
     font-family: "HiraginoSans-W0", serif;
 }
-*{
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    color: white;
-}
-body{
-    background-color: #110D26;
-    font-family: "HiraginoSans-W0", serif;
-}
 nav{
-    background-color: #110D26;
+    background-color: #030220;
     font-family: "Big Caslon fb";
     font-size: 20px;
 
@@ -33,7 +24,7 @@ nav{
 }
 
 .jumbotron{
-    background-image: url("/../assets/productpage/ringjumbotron.png");
+    background-image: url("../assets/productpage/ringjumbotron.png");
 }
 
 a:link, a:visited {
@@ -45,53 +36,40 @@ a:link, a:visited {
     font-size: 33px;
 }
 
-h1,h2{
+h4{
     font-family: "Big Caslon fb";
     font-weight: lighter;
     font-size: 40px;
 }
+.shadow-lg{
+    opacity: 0.2;
+    margin-left: -288px;
+    margin-top: 20px;
+    font-size: 55px;
+}
+.shadow-lg-packages{
+    opacity: 0.2;
+    margin-left: -344px;
+    margin-top: 20px;
+    font-size: 55px;
+}
+.shadow-lg-app{
+    opacity: 0.2;
+    margin-left: -155px;
+    margin-top: 20px;
+    font-size: 55px;
+}
+
 button{
     background-color: #93676D;
 }
-
-#image1{
-    float: right;
-}
-
-
-
-
 
 
 
 .bg-color{
     background-color:  #030220;
 }
-/* ul li .navbar-brand {
-    padding-left: 50%;
-    padding-right: 50%;
-    padding-top: 0;
-}
 
-.navbar-nav {
-    padding-left: 50%;
-    padding-right: 50%;
-}
-
-.navbar {
-    height: 120px;
-} */
-
-.jumbotron-image {
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 600px;
-}
-.jumbotron{
-      background-image: url(/assets/productpage/ringjumbotron.png);
-}
   
 .tekstbanner h2{
     font-size: 90px;
@@ -143,12 +121,8 @@ div div h1{
     margin-left: 42px;
     margin-top: -44px;
     font-size: 55px;
-    
 }
 
-#ourapp{
-    margin-top: 80px;
-}
 #tekstapp{
     margin-left: 100px;
     margin-top: 100px;
@@ -156,7 +130,7 @@ div div h1{
 #foto2{
     width: 350px;
     margin-left: 100px;
-    margin-top: -80px;
+    margin-top: -60px;
 }
 #featuredpackages{
     margin-top: 80px;

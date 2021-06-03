@@ -8,6 +8,7 @@
     <!--<link rel="stylesheet" href="PAGINAS/homepage.css"> -->
     <link rel="stylesheet" href="../css/home.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <script src="../javascript/homepage.js"></script>
 
 </head>
 <body>
@@ -49,6 +50,30 @@
     </div>
 </nav>
 
+
+<div class="jumbotron jumbotron-fluid">
+<!--https://codepen.io/JacobLett/pen/LmWvLZ-->
+    <video autoplay muted loop>
+        <source src="../assets/productpage/Filmpje%20product.mp4" type="video/mp4">
+        <source src="../assets/ring.MOV" type="video/mov">
+    </video>
+
+    <div class="container text-white">
+        <hr class="my-5">
+        <hr class="my-5">
+        <hr class="my-5">
+        <hr class="my-5">
+        <hr class="my-5">
+        <hr class="my-5">
+        <hr class="my-5">
+        <h1 class="lead mr-3">You're in good hands..</h1>
+    </div>
+    <!-- /.container -->
+</div>
+
+
+
+<!--
 <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -75,7 +100,7 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
-
+-->
 <div class="container">
     <div class="row">
         <div class="col-lg-6">
@@ -95,7 +120,7 @@
     <div class="row py-lg-5">
         <div class="col">
         <h2 >Products</h2>
-        <h2 class="shadow-lg">Products</h2><br>
+        <a href="shop.html"><h2 class="shadow-lg">Products</h2></a><br>
             <p>LunaPro</p><br>
 
             <div class="container px-sm-5">
@@ -132,8 +157,8 @@
                     <div class="text-uppercase letterspacing">
                         <br>
                         <p>feel safe & relax</p>
-                        <button class="m-2 p-2 rounded-pill small text-white text-uppercase letterspacing">Discover now</button>
-
+                        <form action="shop.html"> <button class="m-2 p-2 rounded-pill small text-white text-uppercase letterspacing">Discover now</button>
+                        </form>
                     </div>
                 </div>
                 </div>
@@ -154,12 +179,13 @@
         </div>
         <div class="col-6 pt-5">
             <h2>L'unazé App</h2>
-            <h2 class="shadow-lg">L'unazé App</h2><br>
+            <a href="productpage.html"><h2 class="shadow-lg">L'unazé App</h2></a><br>
             <p>Download the app to get the most out of your ring.<br><br>
 
                 The app also serves as a tool in your life, you can find advice and tips from licensed therapists here
             </p>
-            <button class="m-2 p-2 rounded-pill small text-white text-uppercase letterspacing">Discover the app</button>
+            <form action="productpage.html"><button onclick="window.location.href='/html/productpage.html'" class="m-2 p-2 rounded-pill small text-white text-uppercase letterspacing">Discover the app</button>
+            </form>
         </div>
     </div>
 </div>
@@ -188,7 +214,7 @@
         <h2 class="shadowstorieshomepage shadow-lg"><a href="stories.html">Stories</a></h2>
 
         <div class="row justify-content-center">
-                <div class="col-md-5 py-5 ">
+                <div class="col-lg-5 py-5 mr-lg-5">
                     <div class="card mb-4 box-shadow">
                         <img src=../assets/storypage/artikel1.jpg class="card-img" alt="vahittuna">
                         <div class="card-body">
@@ -202,7 +228,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-5 py-5">
+                <div class="col-lg-5 py-5 pl-5 ml-lg-5">
                     <div class="card mb-4 box-shadow">
                         <img src=../assets/storypage/artikel2.jpg class="card-img" alt="">
                         <div class="card-body">

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c42641b9-9177-4f0b-a453-af51ef08ed2b" name="Default Changelist" comment="changed homepage,css,contactpage,storypage">
-      <change afterPath="$PROJECT_DIR$/assets/ring.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/stories.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/stories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/homepage.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/homepage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +99,9 @@
       <workItem from="1622666149658" duration="14866000" />
       <workItem from="1622746621264" duration="109000" />
       <workItem from="1622757025675" duration="8490000" />
-      <workItem from="1622797003850" duration="6280000" />
+      <workItem from="1622797003850" duration="14069000" />
+      <workItem from="1622915374074" duration="905000" />
+      <workItem from="1623055749516" duration="1071000" />
     </task>
     <task id="LOCAL-00001" summary="changed homepage,css,contactpage,storypage">
       <created>1621342779522</created>

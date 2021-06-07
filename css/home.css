@@ -4,11 +4,13 @@
     margin: 0;
 
 }
+
 body{
     color: white;
     background-color: #030220;
     font-family: "HiraginoSans-W0", serif;
 }
+
 nav{
     background-color: #030220;
     font-family: "Big Caslon fb";
@@ -74,7 +76,7 @@ button{
     height:100%;
     /*  object-fit is not supported on IE  */
     object-fit: cover;
-    opacity:0.5;
+    opacity:0.7;
 }
 .jumbotron .container {
     z-index: 2;

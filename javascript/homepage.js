@@ -1,16 +1,42 @@
-function deferVideo() {
+'use strict'
 
-    //defer html5 video loading
-    $("video source").each(function() {
-        var sourceFile = $(this).attr("data-src");
-        $(this).attr("src", sourceFile);
-        var video = this.parentElement;
-        video.load();
-        // uncomment if video is not autoplay
-        //video.play();
-    });
+// Function to add event listener to table
+//let up = document.getElementById("up");
+/*let uppage = document.getElementById('up');
 
+uppage.onclick = () => window.scrollTo({ top: 0, behavior: 'smooth' })
+
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
 }
-window.onload = deferVideo;
+*/
+
+//document.addEventListener("click", topFunction);
+//up.document.addEventListener("click", topFunction);
+
+let go_up = document.getElementById("btn_up");
+
+window.onscroll = function () {
+    scrollFunction();
+};
+
+function scrollFunction() {
+    if (
+        document.body.scrollTop > 20 ||
+        document.documentElement.scrollTop > 20
+    ) {
+        go_up.style.display = "block";
+    } else {
+        go_up.style.display = "none";
+    }
+}
+function backToTop() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+
+go_up.addEventListener("click", backToTop);
+
 
 

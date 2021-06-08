@@ -68,6 +68,9 @@ button{
     overflow: hidden;
     background-color:black;
 }
+#slogan{
+    font-family: "HiraginoSans-W0", serif;
+}
 .jumbotron video {
     position: absolute;
     z-index: 1;

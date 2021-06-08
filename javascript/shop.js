@@ -13,7 +13,6 @@ let tekst = ["l'unazé", "We attach great importance to the right to live in saf
 
 
 function handleLoad() {
-    alert("deneme");
 document.getElementById("btn_add_cart").addEventListener('click',aantalKeerKlikken);
 document.getElementById("btn_login").addEventListener("click", login);
 
@@ -55,7 +54,7 @@ function selected_ring(){
 
 
 
-    alert(types[value]);
+
     document.getElementById("gekozenproduct").innerHTML = types[value];
     document.getElementById("description_product").innerHTML
 

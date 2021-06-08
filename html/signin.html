@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <title>Account</title>
     <link rel="stylesheet" href="../css/home.css">
+    <script src="../javascript/login.js"></script>
+
+
 </head>
 <body>
     <!--Navbar-->
@@ -17,15 +20,12 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
             <span><i class="fa fa-navicon"></i></span>
         </button>
-
-
         <div class="collapse navbar-collapse flex-column" id="myNavbar">
             <ul class="navbar-nav w-100 justify-content-center ">
                 <li class="nav-item navbar-brand active ">
                     <a class="navbar-brand nav-link" href="home.html">l'unazé <span class="sr-only">(current)</span></a>
                 </li>
             </ul>
-
             <ul class="navbar-nav justify-content-center w-100 px-3">
                 <li class="nav-item active">
                     <a class="nav-link" href="home.html">Home <span class="sr-only">(current)</span></a>
@@ -46,7 +46,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="shoppingcart2.html">
-                        <i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+                        <i class="fa fa-shopping-cart" aria-hidden="true"><span id="aantal_in_winkelmand">0</span></i></a>
                 </li>
             </ul>
         </div>
@@ -60,19 +60,19 @@
         <div class="col-lg-7 px-5 pt-5">
             <h1 class="font-weight-bold py-3">Sign in</h1>
             <h4>Sign into your account</h4>
-         <form>
+         <form name="inlog_form" method="post">
              <div class="form-row">
                  <div class="col-lg-7">
-                     <input type="email" id="mail_login" placeholder="Email" class="form-control my-3 p-4">
+                     <input type="email" id="mail_login" required name="email" placeholder="Email" class="form-control my-3 p-4" value="">
                  </div>
              </div>
              <div class="form-row">
                 <div class="col-lg-7">
-                    <input type="password" id="password_login" placeholder="********" class="form-control my-3 p-4">
+                    <input type="password" id="password_login" required name="password" placeholder="********" class="form-control my-3 p-4" value="">
                 </div>
             </div><div class="form-row">
                 <div class="col-lg-7">
-                    <button type="button" class="btncreate mt-3 mb-5">Login</button>
+                    <button type="button" id="btn_login" class="btncreate mt-3 mb-5">Login</button>
                 </div>
             </div>
             <a href="#" class="text-black-50">Forgot password</a>
@@ -82,7 +82,6 @@
       </div>   
      </div>
  </section>
-
     <div class="container ">
         <div class="row py-md-0">
             <p>Customer Service<br>Contact us<br>

@@ -8,14 +8,13 @@
     <link rel="stylesheet" href="../css/home.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <script src="../javascript/shop.js"></script>
+
 </head>
 <body>
 <nav class="navbar navbar-expand-md  sticky-top">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
         <span><i class="fa fa-navicon"></i></span>
     </button>
-
-
     <div class="collapse navbar-collapse flex-column" id="myNavbar">
         <ul class="navbar-nav w-100 justify-content-center ">
             <li class="nav-item navbar-brand active ">
@@ -42,8 +41,8 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="shoppingcart2.html">
-                    <i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+                <a class="nav-link text-white" href="shoppingcart2.html" >
+                    <i class="fa fa-shopping-cart" aria-hidden="true"><span id="aantal_in_winkelmand">0</span></i></a>
             </li>
         </ul>
     </div>
@@ -73,15 +72,17 @@
         </div>
         <div class="col-lg-6 ">
             <div class="row-cols-lg-1">
-                <h2 id="gekozenproduct" class="pl-3 ml-5">l'unazé</h2>
+                <input type="text" id="gekozenproduct" name="gekozenproduct" value="" class="pl-3 ml-5"readonly="readonly">
             </div>
             <div class="row-cols-lg-1 mt-4 ml-5">
-                <select id="product_form" class="form-select pl-3 colo" aria-label="Default select example">
-                    <option selected="selected">Type</option>
+                <form id="productDetails">
+                <select id="product_form" onchange="setProduct(document.Form, this.value);" class="form-select pl-3 colo" aria-label="Default select example">
+                    <option value="0" selected="selected">Type</option>
                     <option value="1">Luna Pro</option>
                     <option value="2">Lu Safe </option>
                     <option value="3">Lu Rax</option>
                 </select>
+                </form>
             </div>
             <div class="row-cols-lg-1 mt-3 ml-5">
                 <select class="form-select pl-3 pr-3" aria-label="Default select example">
@@ -106,7 +107,7 @@
                 </select>
             </div>
             <div class="row-cols-lg-1 mt-3 ml-5">
-                <button type="submit" class="btn2 mt-3 mb-5">Add to cart</button>
+                <button type="submit" id="btn_add_cart" class="btn2 mt-3 mb-5">Add to cart</button>
             </div>
         </div>
     </div>
